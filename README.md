@@ -1,6 +1,6 @@
 # Yggdrasil
 
-<img src="assets/images/yggdrasil_med.png" alt="Yggdrasil" height="400">
+<img src="assets/images/yggdrasil_med.jpeg" alt="Yggdrasil" height="400">
 
 **[Enter The World of Yggdrasil](https://shirecoding.github.io)**
 
